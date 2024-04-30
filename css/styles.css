@@ -48,7 +48,7 @@ section h2 {
 	color: #fff;
 }
 
-ul {
+#connect ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -57,7 +57,7 @@ ul {
 	justify-content: center;
 }
 
-li {
+#connect li {
 	margin: 10px;
 }
 
@@ -105,9 +105,5 @@ p a:hover {
 	header .logo img {
 		width: 50px;
 		height: 50px;
-	}
-
-	h2 {
-		text-align: center;
 	}
 }
